@@ -1,0 +1,30 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+    "Package Control"
+  ],
+  "installed_packages":
+  [
+    "Anaconda",
+    "BracketHighlighter",
+    "DocBlockr_Python",
+    "Git",
+    "GitGutter",
+    "GitSavvy",
+    "ImprovedSQL",
+    "Indent XML",
+    "Markdown Preview",
+    "MarkdownEditing",
+    "Oracle PL SQL",
+    "Package Control",
+    "SideBarEnhancements",
+    "SQLExec",
+    "SublimeGit",
+    "SublimeLinter",
+    "SublimeLinter-pep8",
+    "SublimeREPL",
+    "SVN",
+    "Theme - Flatland"
+  ]
+}
